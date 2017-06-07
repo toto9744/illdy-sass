@@ -33,8 +33,6 @@ Si vous ne savez pas comment utiliser une police de Google Fonts, commencer par 
 Vous devez utiliser la police d'icônes [Linear Icons](http://fontawesome.io/). C'est expliqué sur sur site comment l'utiliser.
 Petite piste : utiliser le CDN.
 
-Au fait, qu'est ce qu'un CDN ?
-
 ## Les images
 
 Toutes les images dont vous avez besoin se trouvent dans le dossier *images*
